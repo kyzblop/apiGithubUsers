@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+
+    background-color: black;
+    color: white;
+}
+
+main{
+    margin: 20px 15% 20px 15%;
+}
+
+.navbar{
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+
+    height: 100px;
+
+    font-size: x-large;
+    color: white;
+    background-color: black;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+
+    margin: 15px 0 15px 0;
+}
+
+.photoProfil{
+    width: 150px;
+    height: 150px;
+}
+
+.card1{
+    display: flex;
+    flex-direction: column;
+
+    margin-left: 15px;
+}
